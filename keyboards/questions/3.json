@@ -1,0 +1,26 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Зумер"
+      },
+      "color": "primary"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Бумер"
+        },
+        "color": "primary"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Че это?"
+      },
+      "color": "default"
+    }]
+  ]
+}

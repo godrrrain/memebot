@@ -1,0 +1,33 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Кабан"
+      },
+      "color": "secondary"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Орел"
+        },
+        "color": "secondary"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Мышь"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "Заяц"
+      },
+      "color": "secondary"
+    }]
+  ]
+}

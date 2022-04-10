@@ -1,0 +1,33 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Зеленый"
+      },
+      "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Красный"
+        },
+        "color": "negative"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Синий"
+      },
+      "color": "primary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "Белый"
+      },
+      "color": "secondary"
+    }]
+  ]
+}

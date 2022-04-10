@@ -1,0 +1,19 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Дааа!"
+      },
+      "color": "positive"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "Да, админ лучший"
+      },
+      "color": "positive"
+    }]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Отлично"
+      },
+      "color": "positive"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "Плохо("
+      },
+      "color": "negative"
+    }]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Мем"
+      },
+      "color": "primary"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Важный тест"
+        },
+        "color": "secondary"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Загрузить мем"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "Статистика"
+      },
+      "color": "secondary"
+    }]
+  ]
+}

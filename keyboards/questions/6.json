@@ -1,0 +1,47 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Лупу"
+      },
+      "color": "secondary"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Комикс"
+        },
+        "color": "secondary"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Вентилятор"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "Масло"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Чай"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "Тетрадь"
+      },
+      "color": "secondary"
+    }]
+  ]
+}
